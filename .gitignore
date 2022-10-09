@@ -1,4 +1,4 @@
-./data
-./pic
-./env
-./dashboard
+./data/
+./pic/
+.env
+./dashboard/
